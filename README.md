@@ -1,6 +1,6 @@
 # SHU-Beamer-Theme
 
-模版主题预览：[SHU-Beamer-Theme](http://lanegong.top/file/slide.pdf)
+模版主题预览：[SHU-Beamer-Theme](https://lanegong.github.io/file/slide.pdf)
 
 ## 说明
 
